@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+*.nbi
+*.nbc
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store

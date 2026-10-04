@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "stno-dipolar-sim: macrospin simulation of dipolar-coupled spin-torque nano-oscillators"
+authors:
+  - family-names: Roosta
+    given-names: Mandana
+    affiliation: "Shahid Beheshti University; Jahesh-AI"
+    email: mandanaroosta.academia@gmail.com
+version: 0.1.0
+date-released: 2026-10-04
+license: MIT
+repository-code: "https://github.com/mandanarst19/stno-dipolar-sim"
+keywords:
+  - spintronics
+  - spin-torque nano-oscillator
+  - synchronization
+  - neuromorphic computing
+  - LLGS
