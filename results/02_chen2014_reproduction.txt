@@ -1,0 +1,8 @@
+Stack spacing r = 42.9 nm (d = 0.01); analytic free frequencies [ 9.529 10.07  10.593 11.097] GHz
+uncoupled: f = [9.532, 10.074, 10.598, 11.102] GHz; <cos(phi_i - phi_i+1)> = [-0.001, -0.011, 0.002]; readout coherence summed / alternating = 0.498 / 0.501
+coupled  : f = [10.304, 10.304, 10.304, 10.304] GHz; <cos(phi_i - phi_i+1)> = [-0.997, -0.993, -0.997]; readout coherence summed / alternating = 0.037 / 0.995
+-> locked frequency 10.304 GHz vs Chen et al. 10.32 GHz (0.16 % difference)
+f4 - f1 (GHz), coupled=False: [1.091, 1.663, 2.104, 2.465, 2.773, 3.044, 3.285, nan, nan, nan]
+f4 - f1 (GHz), coupled=True: [0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, nan, nan, nan]
+currents (mA): [0.6, 1.09, 1.58, 2.07, 2.56, 3.04, 3.53, 4.02, 4.51, 5.0]
+(nan = at least one oscillator has stopped precessing: m_z -> 1 above ~3.6-4.4 mA)
